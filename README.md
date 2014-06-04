@@ -69,6 +69,15 @@ If you want to use bundler you can set something like this in docpad.coffee:
 			sassPath: ['bundle','exec','sass']
 ```
 
+### Load Path support
+If you want to use another load path beside current dir you can set something like this in docpad.coffee:
+
+``` coffee
+  plugins:
+    sassmultipath:
+      scssPath: ['bundle','exec','scss']
+      sassPath: ['bundle','exec','sass']
+```
 
 ## Troubleshooting
 
