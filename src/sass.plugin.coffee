@@ -108,6 +108,11 @@ module.exports = (BasePlugin) ->
 					command.push('--load-path')
 					command.push(fullDirPath)
 
+				if config.loadPaths
+					config.loadPaths.forEach (loadPath) ->
+						command.push('--load-path')
+						command.push(loadPath)
+
 				if config.compass
 					command.push('--compass')
 

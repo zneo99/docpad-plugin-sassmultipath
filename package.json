@@ -1,8 +1,8 @@
 {
-  "name": "docpad-plugin-sass",
-  "version": "2.7.3",
+  "name": "docpad-plugin-sass-advance",
+  "version": "0.0.1",
   "description": "Adds support for the SASS and SCSS CSS pre-processors to DocPad. It also supports the Compass framework.",
-  "homepage": "http://docpad.org/plugin/sass",
+  "homepage": "https://github.com/zneo99/docpad-plugin-sass-advance",
   "license": {
     "type": "MIT"
   },
@@ -49,11 +49,11 @@
     "patocallaghan (https://github.com/patocallaghan)"
   ],
   "bugs": {
-    "url": "https://github.com/docpad/docpad-plugin-sass/issues"
+    "url": "https://github.com/docpad/docpad-plugin-sass-advance/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/docpad/docpad-plugin-sass.git"
+    "url": "https://github.com/zneo99/docpad-plugin-sass-advance.git"
   },
   "engines": {
     "node": ">=0.4"

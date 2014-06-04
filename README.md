@@ -1,5 +1,6 @@
 # [SASS/SCSS](http://sass-lang.com/) Plugin for [DocPad](https://docpad.org) with [Compass](http://compass-style.org/) support
 
+Fork from [docpad-plugin-sass](https://github.com/docpad/docpad-plugin-sass), add support for multiple loadPath
 <!-- BADGES/ -->
 
 [![Build Status](http://img.shields.io/travis-ci/docpad/docpad-plugin-sass.png?branch=master)](http://travis-ci.org/docpad/docpad-plugin-sass "Check this project's build status on TravisCI")
