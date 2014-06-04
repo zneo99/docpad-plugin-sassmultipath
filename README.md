@@ -138,6 +138,7 @@ These amazing people have contributed code to this project:
 - [moperacz](https://github.com/moperacz) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=moperacz)
 - [neilbaylorrulez](https://github.com/neilbaylorrulez) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=neilbaylorrulez)
 - [patocallaghan](https://github.com/patocallaghan) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=patocallaghan)
+- [thuongdinh](https://github.com/thuongdinh) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=thuongdinh)
 
 [Become a contributor!](https://github.com/zneo99/docpad-plugin-sassmultipath/blob/master/CONTRIBUTING.md#files)
 
