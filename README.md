@@ -3,10 +3,10 @@
 Fork from [docpad-plugin-sass](https://github.com/docpad/docpad-plugin-sass), add support for multiple loadPath
 <!-- BADGES/ -->
 
-[![Build Status](http://img.shields.io/travis-ci/docpad/docpad-plugin-sass.png?branch=master)](http://travis-ci.org/docpad/docpad-plugin-sass "Check this project's build status on TravisCI")
-[![NPM version](http://badge.fury.io/js/docpad-plugin-sass.png)](https://npmjs.org/package/docpad-plugin-sass "View this project on NPM")
-[![Dependency Status](https://david-dm.org/docpad/docpad-plugin-sass.png?theme=shields.io)](https://david-dm.org/docpad/docpad-plugin-sass)
-[![Development Dependency Status](https://david-dm.org/docpad/docpad-plugin-sass/dev-status.png?theme=shields.io)](https://david-dm.org/docpad/docpad-plugin-sass#info=devDependencies)<br/>
+[![Build Status](http://img.shields.io/travis-ci/zneo99/docpad-plugin-sassmultipath.png?branch=master)](http://travis-ci.org/zneo99/docpad-plugin-sassmultipath "Check this project's build status on TravisCI")
+[![NPM version](http://badge.fury.io/js/docpad-plugin-sassmultipath.png)](https://npmjs.org/package/docpad-plugin-sassmultipath "View this project on NPM")
+[![Dependency Status](https://david-dm.org/zneo99/docpad-plugin-sassmultipath.png?theme=shields.io)](https://david-dm.org/zneo99/docpad-plugin-sassmultipath)
+[![Development Dependency Status](https://david-dm.org/zneo99/docpad-plugin-sassmultipath/dev-status.png?theme=shields.io)](https://david-dm.org/zneo99/docpad-plugin-sassmultipath#info=devDependencies)<br/>
 [![Gittip donate button](http://img.shields.io/gittip/docpad.png)](https://www.gittip.com/docpad/ "Donate weekly to this project using Gittip")
 [![Flattr donate button](http://img.shields.io/flattr/donate.png?color=yellow)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
 [![PayPayl donate button](http://img.shields.io/paypal/donate.png?color=yellow)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
@@ -88,7 +88,7 @@ Install compass again using: `gem install compass --pre`
 <!-- HISTORY/ -->
 
 ## History
-[Discover the change history by heading on over to the `HISTORY.md` file.](https://github.com/docpad/docpad-plugin-sass/blob/master/HISTORY.md#files)
+[Discover the change history by heading on over to the `HISTORY.md` file.](https://github.com/zneo99/docpad-plugin-sassmultipath/blob/master/HISTORY.md#files)
 
 <!-- /HISTORY -->
 
@@ -97,7 +97,7 @@ Install compass again using: `gem install compass --pre`
 
 ## Contribute
 
-[Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/docpad/docpad-plugin-sass/blob/master/CONTRIBUTING.md#files)
+[Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/zneo99/docpad-plugin-sassmultipath/blob/master/CONTRIBUTING.md#files)
 
 <!-- /CONTRIBUTE -->
 
@@ -126,20 +126,20 @@ No sponsors yet! Will you be the first?
 
 These amazing people have contributed code to this project:
 
-- [andruhon](https://github.com/andruhon) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=andruhon)
-- [Benjamin Lupton](https://github.com/balupton) <b@lupton.cc> — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=balupton)
-- [diessica](https://github.com/diessica) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=diessica)
-- [diessicode](https://github.com/diessicode) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=diessicode)
-- [Jan Kolkmeier](https://github.com/jouz) <jankolkmeier@gmail.com> — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=jouz)
-- [jankolkmeier](https://github.com/jankolkmeier) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=jankolkmeier)
-- [jking90](https://github.com/jking90) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=jking90)
-- [Johannes Troeger](https://github.com/johannestroeger) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=johannestroeger)
-- [Merrick Christensen](https://github.com/iammerrick) <merrick.christensen@gmail.com> — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=iammerrick)
-- [moperacz](https://github.com/moperacz) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=moperacz)
-- [neilbaylorrulez](https://github.com/neilbaylorrulez) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=neilbaylorrulez)
-- [patocallaghan](https://github.com/patocallaghan) — [view contributions](https://github.com/docpad/docpad-plugin-sass/commits?author=patocallaghan)
+- [andruhon](https://github.com/andruhon) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=andruhon)
+- [Benjamin Lupton](https://github.com/balupton) <b@lupton.cc> — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=balupton)
+- [diessica](https://github.com/diessica) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=diessica)
+- [diessicode](https://github.com/diessicode) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=diessicode)
+- [Jan Kolkmeier](https://github.com/jouz) <jankolkmeier@gmail.com> — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=jouz)
+- [jankolkmeier](https://github.com/jankolkmeier) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=jankolkmeier)
+- [jking90](https://github.com/jking90) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=jking90)
+- [Johannes Troeger](https://github.com/johannestroeger) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=johannestroeger)
+- [Merrick Christensen](https://github.com/iammerrick) <merrick.christensen@gmail.com> — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=iammerrick)
+- [moperacz](https://github.com/moperacz) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=moperacz)
+- [neilbaylorrulez](https://github.com/neilbaylorrulez) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=neilbaylorrulez)
+- [patocallaghan](https://github.com/patocallaghan) — [view contributions](https://github.com/zneo99/docpad-plugin-sassmultipath/commits?author=patocallaghan)
 
-[Become a contributor!](https://github.com/docpad/docpad-plugin-sass/blob/master/CONTRIBUTING.md#files)
+[Become a contributor!](https://github.com/zneo99/docpad-plugin-sassmultipath/blob/master/CONTRIBUTING.md#files)
 
 <!-- /BACKERS -->
 
