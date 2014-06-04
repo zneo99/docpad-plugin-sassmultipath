@@ -198,9 +198,7 @@ actions =
 			return step4()  if !config.DOCCO_SRC_PATH or !fsUtil.existsSync(DOCCO)
 			console.log('docco compile')
 			exec("#{DOCCO} -o #{config.DOCCO_OUT_PATH} #{config.DOCCO_SRC_PATH}", {stdio:'inherit', cwd:APP_PATH}, safe next, step4)
-		step4 = ->
-			console.log('cake test')
-			actions.test(opts, safe next, step5)
+		step4 = next
 		step5 = next
 
 		# Start

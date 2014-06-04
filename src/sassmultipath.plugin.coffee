@@ -8,7 +8,7 @@ module.exports = (BasePlugin) ->
 	# Define Plugin
 	class SassPlugin extends BasePlugin
 		# Plugin name
-		name: 'sass'
+		name: 'sassmultipath'
 
 		# Plugin config
 		# Only on the development environment use expanded, otherwise use compressed
